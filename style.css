@@ -1,0 +1,33 @@
+*{
+    padding:0;
+    margin: 0;
+}
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+.heading{
+    font-size: 38px;
+    font-family: 'Potta One', cursive;
+}
+.logo{
+    width: 74px;
+    padding:0px 22px;
+}
+.logo img{
+    width: 104%;
+}
+.container{
+    width: 50vw;
+    margin: auto;
+    margin-top: 12px;
+    font-family: 'Roboto', sans-serif;
+}
+.toolbar-item button{
+    cursor: pointer !important;
+    border: 1px solid white !important;
+    color: white !important;
+}
