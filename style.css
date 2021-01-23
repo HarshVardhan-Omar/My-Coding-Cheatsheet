@@ -6,7 +6,7 @@ nav{
     display:flex;
     align-items: center;
     justify-content: center;
-    background-color: black;
+    background-color: #272822;
     color: white;
 }
 .heading{
